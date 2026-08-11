@@ -1,0 +1,70 @@
+{
+  "acoes": [
+    {
+      "ticker": "PETR4",
+      "empresa": "Petrobras PN",
+      "setor": "Petroleo, Gas e Biocombustiveis",
+      "tipo_provento": "Dividendos",
+      "frequencia_proventos": "Trimestral",
+      "descricao": "Maior empresa de petroleo do Brasil"
+    },
+    {
+      "ticker": "ITUB4",
+      "empresa": "Itau Unibanco PN",
+      "setor": "Financeiro",
+      "tipo_provento": "Dividendos",
+      "frequencia_proventos": "Trimestral",
+      "descricao": "Maior banco privado da America Latina"
+    },
+    {
+      "ticker": "VALE3",
+      "empresa": "Vale ON",
+      "setor": "Mineracao",
+      "tipo_provento": "Dividendos",
+      "frequencia_proventos": "Semestral",
+      "descricao": "Maior mineradora brasileira"
+    },
+    {
+      "ticker": "ABEV3",
+      "empresa": "Ambev ON",
+      "setor": "Bebidas",
+      "tipo_provento": "Dividendos",
+      "frequencia_proventos": "Anual",
+      "descricao": "Maior cervejaria da America Latina"
+    }
+  ],
+  "fiis": [
+    {
+      "ticker": "HGLG11",
+      "tipo": "FII de Tijolo",
+      "setor": "Imoveis Comerciais (Logistica)",
+      "tipo_provento": "Rendimentos (Alugueis)",
+      "frequencia_proventos": "Mensal",
+      "descricao": "Fundo que investe em galpoes logisticos"
+    },
+    {
+      "ticker": "MXRF11",
+      "tipo": "FII de Papel",
+      "setor": "Titulos Publicos e Privados",
+      "tipo_provento": "Rendimentos (Juros)",
+      "frequencia_proventos": "Mensal",
+      "descricao": "Fundo que investe em recebiveis imobiliarios"
+    },
+    {
+      "ticker": "KNRI11",
+      "tipo": "FII de Tijolo",
+      "setor": "Imoveis Comerciais (Corporate)",
+      "tipo_provento": "Rendimentos (Alugueis)",
+      "frequencia_proventos": "Mensal",
+      "descricao": "Fundo que investe em imoveis corporativos"
+    },
+    {
+      "ticker": "VISC11",
+      "tipo": "FII de Tijolo",
+      "setor": "Imoveis Comerciais (Varejo)",
+      "tipo_provento": "Rendimentos (Alugueis)",
+      "frequencia_proventos": "Mensal",
+      "descricao": "Fundo que investe em shoppings e galerias"
+    }
+  ]
+}
