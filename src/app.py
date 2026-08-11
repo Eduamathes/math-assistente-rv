@@ -5,7 +5,11 @@ import google.generativeai as genai
 import streamlit as st
 
 # ============ CONFIGURACAO ============
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "")
+try:
+    GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
+except:
+    GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "")
+
 if not GOOGLE_API_KEY:
     st.error("Configure sua API key do Google Gemini.")
     st.info("1. Obtenha em: https://aistudio.google.com/apikey\n"
