@@ -23,3 +23,7 @@ O Math nao e um robo de recomendacao. Ele e um educador. Nao diz o que comprar, 
 ## Stack
 
 Streamlit (interface) + Google Gemini (LLM) + base de conhecimento em JSON/CSV. Simples, funcional e replicavel.
+
+## Vídeo do Pitch
+
+Assista à apresentação de 3 minutos do projeto Math: [Clique aqui para ver o vídeo](https://drive.google.com/file/d/1PkQo87Zl9k4qqRs3-m1Afks77fIZFjxx/view?usp=drive_link)
