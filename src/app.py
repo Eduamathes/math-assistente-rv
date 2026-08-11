@@ -17,7 +17,7 @@ if not GOOGLE_API_KEY:
     st.stop()
 
 genai.configure(api_key=GOOGLE_API_KEY)
-MODELO = "gemini-2.5-flash"
+MODELO = "gemini-3.5-flash"
 
 # ============ CARREGAR DADOS ============
 perfil = json.load(open('./data/perfil_investidor.json'))
