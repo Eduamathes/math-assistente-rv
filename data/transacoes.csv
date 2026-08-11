@@ -1,0 +1,8 @@
+data,tipo,ativo,quantidade,valor_unitario,valor_total
+2024-01-15,Compra,PETR4,100,38.50,3850.00
+2024-02-10,Compra,HGLG11,50,165.20,8260.00
+2024-03-05,Compra,ITUB4,200,32.10,6420.00
+2024-03-20,Rendimento,HGLG11,50,1.50,75.00
+2024-04-01,Compra,MXRF11,100,10.20,1020.00
+2024-04-15,Dividendo,PETR4,100,0.90,90.00
+2024-05-10,Rendimento,MXRF11,100,0.12,12.00
